@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithakash-09/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/codewithakash-09/DSA/tree/master/0278-first-bad-version) |
+| [1539-kth-missing-positive-number](https://github.com/codewithakash-09/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Interactive
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/codewithakash-09/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1539-kth-missing-positive-number](https://github.com/codewithakash-09/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
