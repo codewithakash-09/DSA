@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/codewithakash-09/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/codewithakash-09/DSA/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/codewithakash-09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0643-maximum-average-subarray-i](https://github.com/codewithakash-09/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/codewithakash-09/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codewithakash-09/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1539-kth-missing-positive-number](https://github.com/codewithakash-09/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codewithakash-09/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/codewithakash-09/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/codewithakash-09/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## String
 |  |
 | ------- |
