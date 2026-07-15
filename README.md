@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codewithakash-09/DSA/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/codewithakash-09/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Simulation
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codewithakash-09/DSA/tree/master/0258-add-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/codewithakash-09/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
