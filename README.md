@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/codewithakash-09/DSA/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codewithakash-09/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codewithakash-09/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithakash-09/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Math
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithakash-09/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithakash-09/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewithakash-09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/codewithakash-09/DSA/tree/master/0203-remove-linked-list-elements) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithakash-09/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
