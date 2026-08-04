@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewithakash-09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codewithakash-09/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codewithakash-09/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/codewithakash-09/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewithakash-09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/codewithakash-09/DSA/tree/master/0567-permutation-in-string) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codewithakash-09/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codewithakash-09/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3731-find-missing-elements](https://github.com/codewithakash-09/DSA/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/codewithakash-09/DSA/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithakash-09/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithakash-09/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/codewithakash-09/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewithakash-09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
