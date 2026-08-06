@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/codewithakash-09/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/codewithakash-09/DSA/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codewithakash-09/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/codewithakash-09/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/codewithakash-09/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/codewithakash-09/DSA/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/codewithakash-09/DSA/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewithakash-09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithakash-09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codewithakash-09/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/codewithakash-09/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/codewithakash-09/DSA/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
@@ -185,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/codewithakash-09/DSA/tree/master/0389-find-the-difference) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/codewithakash-09/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
