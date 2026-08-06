@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/codewithakash-09/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/codewithakash-09/DSA/tree/master/0278-first-bad-version) |
 | [1539-kth-missing-positive-number](https://github.com/codewithakash-09/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codewithakash-09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Interactive
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/codewithakash-09/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/codewithakash-09/DSA/tree/master/1260-shift-2d-grid) |
 | [1539-kth-missing-positive-number](https://github.com/codewithakash-09/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codewithakash-09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewithakash-09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/codewithakash-09/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codewithakash-09/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codewithakash-09/DSA/tree/master/0011-container-with-most-water) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codewithakash-09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithakash-09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
 |  |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/codewithakash-09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0724-find-pivot-index](https://github.com/codewithakash-09/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codewithakash-09/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codewithakash-09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/codewithakash-09/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/codewithakash-09/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codewithakash-09/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codewithakash-09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/codewithakash-09/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -168,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/codewithakash-09/DSA/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithakash-09/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/codewithakash-09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithakash-09/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/codewithakash-09/DSA/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewithakash-09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
