@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codewithakash-09/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/codewithakash-09/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/codewithakash-09/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codewithakash-09/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/codewithakash-09/DSA/tree/master/0567-permutation-in-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/codewithakash-09/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/codewithakash-09/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/codewithakash-09/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/codewithakash-09/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codewithakash-09/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/codewithakash-09/DSA/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/codewithakash-09/DSA/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithakash-09/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithakash-09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
