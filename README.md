@@ -201,10 +201,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/codewithakash-09/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/codewithakash-09/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/codewithakash-09/DSA/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/codewithakash-09/DSA/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/codewithakash-09/DSA/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
