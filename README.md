@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/codewithakash-09/DSA/tree/master/0509-fibonacci-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewithakash-09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithakash-09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/codewithakash-09/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/codewithakash-09/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewithakash-09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
