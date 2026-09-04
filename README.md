@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/codewithakash-09/DSA/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/codewithakash-09/DSA/tree/master/0258-add-digits) |
+| [0342-power-of-four](https://github.com/codewithakash-09/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/codewithakash-09/DSA/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/codewithakash-09/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewithakash-09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/codewithakash-09/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/codewithakash-09/DSA/tree/master/0206-reverse-linked-list) |
+| [0342-power-of-four](https://github.com/codewithakash-09/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/codewithakash-09/DSA/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/codewithakash-09/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/codewithakash-09/DSA/tree/master/0389-find-the-difference) |
 ## Memoization
 |  |
