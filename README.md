@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codewithakash-09/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/codewithakash-09/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/codewithakash-09/DSA/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/codewithakash-09/DSA/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/codewithakash-09/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewithakash-09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithakash-09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/codewithakash-09/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/codewithakash-09/DSA/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/codewithakash-09/DSA/tree/master/0577-employee-bonus) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/codewithakash-09/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
