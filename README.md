@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/codewithakash-09/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/codewithakash-09/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/codewithakash-09/DSA/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/codewithakash-09/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codewithakash-09/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/codewithakash-09/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/codewithakash-09/DSA/tree/master/0136-single-number) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/codewithakash-09/DSA/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/codewithakash-09/DSA/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/codewithakash-09/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/codewithakash-09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [1260-shift-2d-grid](https://github.com/codewithakash-09/DSA/tree/master/1260-shift-2d-grid) |
 ## Prefix Sum
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/codewithakash-09/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/codewithakash-09/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/codewithakash-09/DSA/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/codewithakash-09/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/codewithakash-09/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/codewithakash-09/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codewithakash-09/DSA/tree/master/0268-missing-number) |
