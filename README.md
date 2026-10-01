@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/codewithakash-09/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/codewithakash-09/DSA/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/codewithakash-09/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewithakash-09/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/codewithakash-09/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithakash-09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/codewithakash-09/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codewithakash-09/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/codewithakash-09/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/codewithakash-09/DSA/tree/master/0389-find-the-difference) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/codewithakash-09/DSA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Memoization
 |  |
 | ------- |
