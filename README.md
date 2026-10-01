@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/codewithakash-09/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/codewithakash-09/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/codewithakash-09/DSA/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/codewithakash-09/DSA/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codewithakash-09/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/codewithakash-09/DSA/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/codewithakash-09/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/codewithakash-09/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/codewithakash-09/DSA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/codewithakash-09/DSA/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/codewithakash-09/DSA/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/codewithakash-09/DSA/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/codewithakash-09/DSA/tree/master/0836-rectangle-overlap) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/codewithakash-09/DSA/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/codewithakash-09/DSA/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/codewithakash-09/DSA/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/codewithakash-09/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/codewithakash-09/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/codewithakash-09/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
