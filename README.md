@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codewithakash-09/DSA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/codewithakash-09/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/codewithakash-09/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/codewithakash-09/DSA/tree/master/0410-split-array-largest-sum) |
 | [1539-kth-missing-positive-number](https://github.com/codewithakash-09/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithakash-09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Interactive
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/codewithakash-09/DSA/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/codewithakash-09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/codewithakash-09/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/codewithakash-09/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/codewithakash-09/DSA/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/codewithakash-09/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/codewithakash-09/DSA/tree/master/0724-find-pivot-index) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/codewithakash-09/DSA/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/codewithakash-09/DSA/tree/master/0410-split-array-largest-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithakash-09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/codewithakash-09/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Design
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/codewithakash-09/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0304-range-sum-query-2d-immutable](https://github.com/codewithakash-09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0410-split-array-largest-sum](https://github.com/codewithakash-09/DSA/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/codewithakash-09/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/codewithakash-09/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/codewithakash-09/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/codewithakash-09/DSA/tree/master/0053-maximum-subarray) |
 | [0115-distinct-subsequences](https://github.com/codewithakash-09/DSA/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/codewithakash-09/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/codewithakash-09/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/codewithakash-09/DSA/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
