@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/codewithakash-09/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/codewithakash-09/DSA/tree/master/0283-move-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/codewithakash-09/DSA/tree/master/0304-range-sum-query-2d-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/codewithakash-09/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codewithakash-09/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/codewithakash-09/DSA/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/codewithakash-09/DSA/tree/master/0485-max-consecutive-ones) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/codewithakash-09/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codewithakash-09/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codewithakash-09/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/codewithakash-09/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codewithakash-09/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/codewithakash-09/DSA/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/codewithakash-09/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/codewithakash-09/DSA/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/codewithakash-09/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Queue
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/codewithakash-09/DSA/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/codewithakash-09/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/codewithakash-09/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/codewithakash-09/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/codewithakash-09/DSA/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/codewithakash-09/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/codewithakash-09/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/codewithakash-09/DSA/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/codewithakash-09/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -293,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/codewithakash-09/DSA/tree/master/0347-top-k-frequent-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/codewithakash-09/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Bit Manipulation
 |  |
@@ -333,4 +339,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/codewithakash-09/DSA/tree/master/0022-generate-parentheses) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/codewithakash-09/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/codewithakash-09/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
